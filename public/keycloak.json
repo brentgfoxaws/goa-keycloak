@@ -1,0 +1,8 @@
+{
+  "realm": "BrentRealm",
+  "auth-server-url": "https://keycloak-dev.octank.ca/auth/",
+  "ssl-required": "external",
+  "resource": "goa-sample",
+  "public-client": true,
+  "confidential-port": 0
+}
